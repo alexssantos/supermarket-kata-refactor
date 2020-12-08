@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SupermarketReceipt.Discount" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.FakeCatalog" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAEAAQAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>FakeCatalog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SupermarketReceipt.Offer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAIIAAAAAAAAA=</HashCode>
+      <FileName>Offer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.Product" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAoAAAAAQAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.ProductQuantity" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.Receipt" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAQAAAABAgAgAAAAgAAABAAAA=</HashCode>
+      <FileName>Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.ReceiptItem" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.ReceiptPrinter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAAAAAAEACAAAIAAAUIEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReceiptPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.ShoppingCart" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAgAAAAAAAAAQAgBAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShoppingCart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SupermarketReceipt.Teller" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAAAAAAAAAAABAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SupermarketReceipt.SupermarketCatalog" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SupermarketCatalog.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SupermarketReceipt.SpecialOfferType" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAACAAIAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Offer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SupermarketReceipt.ProductUnit" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
